@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richardmarquez2001&label=Profile%20views&color=0e75b6&style=flat" alt="richardmarquez2001" /> </p>
 
-Hi, I'm Ric 🦾! I'm currently interested in Front End development with Vue.js with Quasar, and React. I'm also down to learn more about UI/UX design.
+Hi, I'm Ric 🦾! I'm currently interested in Front End development with Vue.js with Quasar, and React. I'm also down to learn more about UX/UI design.
 
 <h3>You can reach out to me here:</h3>
 
@@ -12,6 +12,10 @@ Hi, I'm Ric 🦾! I'm currently interested in Front End development with Vue.js 
 - 📫 Email me: **richard.marquez@ryerson.ca**
 
 - 👨🏻‍💼 Linkedin: [https://www.linkedin.com/in/richard-marquez-2001/](linkedin.in/richard-marquez-2001)
+
+<h3>What I'm currently doing</h3>
+
+I'm currently working on [https://ruhacks.com/](RUHacks) as a developer. This summer, I'll be working at [https://shopify.engineering/](Shopify) as a front-end engineer. 
 
 <h3 align="left">Languages and Tools:</h3>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardmarquez2001&layout=compact" alt="richardmarquez2001" />
