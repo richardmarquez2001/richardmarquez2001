@@ -6,8 +6,11 @@
 Hi, I'm Ric 🦾! I'm currently interested in Front End development with Vue.js with Quasar, and React. I'm also down to learn more about UI/UX design.
 
 <h3>You can reach out to me here:</h3>
+
 - 👨‍💻 All of my projects are available at [https://richardmarquez.ca](richardmarquez.ca)
+
 - 📫 Email me: **richard.marquez@ryerson.ca**
+
 - 👨🏻‍💼 Linkedin: [https://www.linkedin.com/in/richard-marquez-2001/](linkedin.in/richard-marquez-2001)
 
 <h3 align="left">Languages and Tools:</h3>
