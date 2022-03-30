@@ -13,7 +13,7 @@ Hi, I'm Ric 🦾! I'm currently interested in Front End development with Vue.js 
 
 - 👨🏻‍💼 Linkedin: [linkedin.in/richard-marquez-2001 ](https://www.linkedin.com/in/richard-marquez-2001/)
 
-<h3>What I'm currently doing</h3>
+<h3>What I'm currently doing:</h3>
 
 I'm currently working on [RUHacks](https://ruhacks.com/) as a developer. This summer, I'll be working at [Shopify](https://shopify.engineering/) as a front-end engineer. 
 
