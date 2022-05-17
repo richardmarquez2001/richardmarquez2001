@@ -11,11 +11,11 @@ Hi, I'm Ric 🦾! I'm currently interested in Front End development with Vue.js 
 
 - 📫 Email me: **richard.marquez@ryerson.ca**
 
-- 👨🏻‍💼 Linkedin: [linkedin.in/richard-marquez-2001 ](https://www.linkedin.com/in/richard-marquez-2001/)
+- 👨🏻‍💼 Linkedin: [linkedin.in/richard-marquez-2001](https://www.linkedin.com/in/richard-marquez-2001/)
 
 <h3>What I'm currently doing:</h3>
 
-I'm currently working on [RUHacks](https://ruhacks.com/) as a developer. This summer, I'll be working at [Shopify](https://shopify.engineering/) as a front-end engineer. 
+I'm currently working at [Shopify](https://shopify.engineering/) as a front-end engineer. 
 
 <h3 align="left">Languages and Tools:</h3>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardmarquez2001&layout=compact" alt="richardmarquez2001" />
