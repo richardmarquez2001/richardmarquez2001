@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏼, I'm Richard Marquez</h1>
-<h3 align="center">4th Year @ TMU (Ryerson) | React/Vue User</h3>
+<h3 align="center">5th Year @ TMU (Ryerson) | React/Vue User</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richardmarquez2001&label=Profile%20views&color=0e75b6&style=flat" alt="richardmarquez2001" /> </p>
 
