@@ -9,7 +9,7 @@ Hi, I'm Ric 🦾! I'm currently interested in Front End development with Vue.js 
 
 - 👨‍💻 All of my projects are available at [richardmarquez.ca](https://richardmarquez.ca)
 
-- 📫 Email me: **richard.marquez@ryerson.ca**
+- 📫 Email me: **richard.marquez@torontomu.ca** or **richardmarqq@gmail.com**
 
 - 👨🏻‍💼 Linkedin: [linkedin.in/richard-marquez-2001](https://www.linkedin.com/in/richard-marquez-2001/)
 
