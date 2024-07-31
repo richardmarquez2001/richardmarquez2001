@@ -15,7 +15,7 @@ Hi, I'm Ric 🦾! I'm currently interested in Front End development with Vue.js 
 
 <h3>What I'm currently doing:</h3>
 
-Currently in my final semester of uni, searching for a full time 2024 SWE position. Interned previously at [Shopify](https://shopify.com/) and [Coursera](https://coursera.org/)
+Currently seeking for full-time 2024 SWE positions. Interned previously at [Shopify](https://shopify.com/) and [Coursera](https://coursera.org/)
 
 <h3 align="left">Languages and Tools:</h3>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardmarquez2001&layout=compact" alt="richardmarquez2001" />
