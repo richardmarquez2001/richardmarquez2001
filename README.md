@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏼, I'm Richard Marquez</h1>
-<h3 align="center">5th Year @ TMU (Ryerson) | React/Vue User</h3>
+<h3 align="center">SWE @ TELUS 🥸</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richardmarquez2001&label=Profile%20views&color=0e75b6&style=flat" alt="richardmarquez2001" /> </p>
 
@@ -9,13 +9,13 @@ Hi, I'm Ric 🦾! I'm currently interested in Front End development with Vue.js 
 
 - 👨‍💻 All of my projects are available at [richardmarquez.ca](https://richardmarquez.ca)
 
-- 📫 Email me: **richard.marquez@torontomu.ca** or **richardmarqq@gmail.com**
+- 📫 Email me: **richardmarqq@gmail.com**
 
 - 👨🏻‍💼 Linkedin: [linkedin.in/richard-marquez-2001](https://www.linkedin.com/in/richard-marquez-2001/)
 
 <h3>What I'm currently doing:</h3>
 
-Currently seeking for full-time 2024 SWE positions. Interned previously at [Shopify](https://shopify.com/) and [Coursera](https://coursera.org/)
+I'm currently working @TELUS. Interned previously at [Shopify](https://shopify.com/) and [Coursera](https://coursera.org/). Always open to new opportunities!
 
 <h3 align="left">Languages and Tools:</h3>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardmarquez2001&layout=compact" alt="richardmarquez2001" />
