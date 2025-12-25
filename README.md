@@ -15,7 +15,7 @@ Hi, I'm Ric 🦾! I'm currently interested in Front End development with Vue.js 
 
 <h3>What I'm currently doing:</h3>
 
-I'm currently working @TELUS. Interned previously at [Shopify](https://shopify.com/) and [Coursera](https://coursera.org/). Always open to new opportunities!
+I'm currently working @Coursera. Previously worked at TELUS, and interned at [Shopify](https://shopify.com/) and [Coursera](https://coursera.org/). Always open to new opportunities!
 
 <h3 align="left">Languages and Tools:</h3>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardmarquez2001&layout=compact" alt="richardmarquez2001" />
